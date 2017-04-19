@@ -1,0 +1,7 @@
+#Wed Apr 19 12:54:09 ART 2017
+base.0=/Users/lucas/AndroidStudioProjects/OMDB/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ef8b26d89765351340c38cbcc2c7484011576738
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/Users/lucas/AndroidStudioProjects/OMDB/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_34d24361d1bc85d51ca5c4165c36b462a80b0b1a/classes.dex
+base.1=/Users/lucas/AndroidStudioProjects/OMDB/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_34d24361d1bc85d51ca5c4165c36b462a80b0b1a
+file.0=/Users/lucas/AndroidStudioProjects/OMDB/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_ef8b26d89765351340c38cbcc2c7484011576738/classes.dex

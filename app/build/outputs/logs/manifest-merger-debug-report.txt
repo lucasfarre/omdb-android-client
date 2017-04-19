@@ -1,0 +1,76 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml:2:1-26:12
+	package
+		ADDED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml:3:5-32
+		INJECTED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml:5:22-64
+application
+ADDED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [com.android.volley:volley:1.0.0] /Users/lucas/.android/build-cache/6c7fdc9187449351215c13f4396e9529ab466878/output/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:23.4.0] /Users/lucas/.android/build-cache/6e833635eed1d70ee1dac91dd8c99ba27dcd05f5/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/lucas/.android/build-cache/d6fec57406a0cc2e6fdfc52063b3e353d71b93cc/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/lucas/.android/build-cache/6a8efa6a2de691d4d6403e3c5dfa0e5510e8f53a/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/lucas/.android/build-cache/ff7afe30bb0810d680e6553fe46fc33f25933b58/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-v4:23.4.0] /Users/lucas/.android/build-cache/181a5fee5cdbb70952cdee2d1971ef5c6fdade9c/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml:10:9-41
+	android:supportsRtl
+		ADDED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml:11:9-35
+	android:allowBackup
+		ADDED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml:12:9-40
+activity#tk.lucasapps.omdb.activity.SearchActivity_
+ADDED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml:13:9-19:20
+	android:name
+		ADDED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml:13:19-59
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml:14:13-18:29
+action#android.intent.action.MAIN
+ADDED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml:15:17-69
+	android:name
+		ADDED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml:15:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml:17:17-77
+	android:name
+		ADDED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml:17:27-74
+activity#tk.lucasapps.omdb.activity.MainActivity
+ADDED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml:20:9-23:68
+	android:label
+		ADDED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml:22:13-56
+	android:theme
+		ADDED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml:23:13-56
+	android:name
+		ADDED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml:21:13-50
+uses-sdk
+INJECTED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.volley:volley:1.0.0] /Users/lucas/.android/build-cache/6c7fdc9187449351215c13f4396e9529ab466878/output/AndroidManifest.xml:7:5-43
+MERGED from [com.android.support:design:23.4.0] /Users/lucas/.android/build-cache/6e833635eed1d70ee1dac91dd8c99ba27dcd05f5/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.4.0] /Users/lucas/.android/build-cache/bc611d263ed526a4d8fce9dd653af8e50b259912/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:23.4.0] /Users/lucas/.android/build-cache/d6fec57406a0cc2e6fdfc52063b3e353d71b93cc/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.4.0] /Users/lucas/.android/build-cache/6a8efa6a2de691d4d6403e3c5dfa0e5510e8f53a/output/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.4.0] /Users/lucas/.android/build-cache/ff7afe30bb0810d680e6553fe46fc33f25933b58/output/AndroidManifest.xml:5:5-43
+MERGED from [com.android.support:support-v4:23.4.0] /Users/lucas/.android/build-cache/181a5fee5cdbb70952cdee2d1971ef5c6fdade9c/output/AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:23.4.0] /Users/lucas/.android/build-cache/d6fec57406a0cc2e6fdfc52063b3e353d71b93cc/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/lucas/AndroidStudioProjects/OMDB/app/src/main/AndroidManifest.xml
